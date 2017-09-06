@@ -1,7 +1,7 @@
 hello-old
 ============
 
-A old style hello
+An old style hello
 
 Hello Old is a program that says Hello to all users. This program is useful to learn
 the basics about C language. All people need to know the very nice effect caused by
